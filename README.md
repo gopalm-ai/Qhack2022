@@ -12,7 +12,6 @@ The aim of this project is to develop a clear understanding of the promises and 
 
 ### References
 - Maria Schuld and Francesco Petruccione. Supervised Learning with Quantum Computers.
-- Boston Housing – Price Prediction https://rstudio-
 - Pennylane.ai documentation https://pennylane.readthedocs.io/en/stable/
 - Quantum Machine Learning for Finance https://arxiv.org/pdf/2109.04298.pdf
 - Continuous-variable quantum neural networks https://arxiv.org/abs/1806.0687
