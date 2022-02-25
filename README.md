@@ -7,8 +7,8 @@ Quantum Machine Learning is an emerging field that promises to solve intractable
 
 The aim of this project is to develop a clear understanding of the promises and limitations of the current state-of-the-art of quantum algorithms for machine learning, also to define directions for future research in this exciting field. And then draw the parallels to recent ‘quantum-inspired’ results, and explain the implications of these results for quantum machine learning applications. Looking for areas which might bear larger advantages for QML algorithms.
 
-Notebook
-- Presentation
+- [Notebook](https://github.com/pratjz/Qhack2022)
+- [Presentation](https://github.com/pratjz/Qhack2022)
 
 ### References
 - Maria Schuld and Francesco Petruccione. Supervised Learning with Quantum Computers.
