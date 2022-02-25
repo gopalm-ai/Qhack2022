@@ -6,3 +6,13 @@ In this project, we will use Quantum Neural Network along with classical layers 
 Quantum Machine Learning is an emerging field that promises to solve intractable problems. There are multiple quantum machine learning algorithms that have emerged from their classical counterparts. Specially the so-called Quantum Neural Networks.
 
 The aim of this project is to develop a clear understanding of the promises and limitations of the current state-of-the-art of quantum algorithms for machine learning, also to define directions for future research in this exciting field. And then draw the parallels to recent ‘quantum-inspired’ results, and explain the implications of these results for quantum machine learning applications. Looking for areas which might bear larger advantages for QML algorithms.
+
+Notebook
+- Presentation
+
+### References
+- Maria Schuld and Francesco Petruccione. Supervised Learning with Quantum Computers.
+- Boston Housing – Price Prediction https://rstudio-
+- Pennylane.ai documentation https://pennylane.readthedocs.io/en/stable/
+- Quantum Machine Learning for Finance https://arxiv.org/pdf/2109.04298.pdf
+- Continuous-variable quantum neural networks https://arxiv.org/abs/1806.0687
